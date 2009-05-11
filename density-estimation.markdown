@@ -1,4 +1,5 @@
-Data analytic density estimation =====================
+Data analytic density estimation 
+================================
 
 Deal with boundaries.
 Present a range of good bandwidths

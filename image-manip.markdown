@@ -1,4 +1,5 @@
-Image manipulation detection with interactive graphics =======================
+Image manipulation detection with interactive graphics 
+======================================================
   
 This presentation and code develop a number of pixel-level statistics that are useful for detecting image manipulation.  The presentation uses static graphics (e.g. 3d scatterplots) and image plots with statistics mapped to colour. 
 
@@ -24,6 +25,7 @@ Output
 Maybe use ideas from this paper, http://www.faculty.idc.ac.il/arik/imret.pdf, (content aware image resizing) as another possible index.  
 
 And also:
+
 http://www.cs.dartmouth.edu/farid/research/tampering.htm
 http://www.webcitation.org/5TSYcRMLLl
 http://www.webcitation.org/5TSYeQvxW

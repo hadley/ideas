@@ -1,4 +1,6 @@
-Gigascale visualisation ==================================================
+Gigascale visualisation 
+=======================
+
 Visualising a billion
 
 Fastbit package for R, plus addons to get data into that format.  

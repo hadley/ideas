@@ -1,5 +1,5 @@
-
-Understanding US legislative process =========================================
+Understanding US legislative process 
+====================================
 
 Text comparison on bills - see how chunks get moved around
 John Udell blog entries

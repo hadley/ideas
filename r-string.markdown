@@ -1,5 +1,5 @@
-
-Better string functions ==========
+Better string functions for R
+=============================
 
 See e.g. ruby.  Onigirama regexp library?  Look at Gabor's gsubfn as well.
 

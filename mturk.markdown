@@ -1,4 +1,5 @@
-Crowd sourcing perceptual tests ==============================================
+Crowd sourcing perceptual tests 
+===============================
 
 Use Amazon's mechanical turk to develop a platform for running perceptual tests.  Use that platform to develop better set of shapes/colours/line types/... and provide as an R package, csv files etc.  Need to review existing literature
 

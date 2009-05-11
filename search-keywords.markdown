@@ -1,7 +1,7 @@
-Search keyword collapsing ===================
+Search keyword collapsing 
+=========================
 
-e.g.
-100 pushups, one hundred pushups, 100 push ups, hundred pushups, 100 pushup challenge, one hundred push ups, hundredpushups, 100 push up challenge, hundred push ups, push ups
+e.g. 100 pushups, one hundred pushups, 100 push ups, hundred pushups, 100 pushup challenge, one hundred push ups, hundredpushups, 100 push up challenge, hundred push ups, push ups
 
 => 100 / one hundred + push ups / push ups + challenge
 

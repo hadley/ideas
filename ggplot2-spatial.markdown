@@ -1,4 +1,5 @@
-Spatial displays with ggplot2 ================================================
+Spatial displays with ggplot2 
+=============================
 
 Not a GIS, but need to be able to provide geographic-statistical displays.  Develop links with City University group (Jason Dykes etc).
 
@@ -13,7 +14,8 @@ Decent thinning algorithms.
 Decent conversion from one data type to another.
 
 Better contours:
+
   * lines
-  * filled "Hypsometric Tinting" - http://blogs.esri.com/Support/blogs/mappingcenter/archive/2008/05/09/hypsometric-tinting.aspx
-  * lovely map contours: http://www.nagt.org/files/nagt/jge/abstracts/Kennelly_v50n4p428.pdf
+  * filled ["Hypsometric Tinting"](http://blogs.esri.com/Support/blogs/mappingcenter/archive/2008/05/09/hypsometric-tinting.aspx)
+  * [lovely map contours](http://www.nagt.org/files/nagt/jge/abstracts/Kennelly_v50n4p428.pdf)
 

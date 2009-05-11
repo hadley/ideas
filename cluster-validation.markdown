@@ -1,5 +1,5 @@
-
-Cluster validation ===========================================================
+Cluster validation
+==================
 
 Interactive graphics for http://www.jstatsoft.org/v25/i04/paper, which also contains a good survey of existing clustering and validation methods implemented in R.  Also look up Fritz's clustering node with neighbourhood connections.
 

@@ -1,4 +1,5 @@
-Attentive mds ===========================================================
+Attentive mds 
+==============
 
 Lay out points with mds.  Select point (or cluster of points) and relayout others to more accurately reflect their distance from the selected points.  See http://www.tom-carden.co.uk/p5/tube_map_travel_times/applet/ for example
 

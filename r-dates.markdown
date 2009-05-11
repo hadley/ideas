@@ -1,5 +1,5 @@
-
-Dates done right ============
+Dates done right 
+================
 
 review existing date time classes in R: xts, its, ti, chron, POSIXct, POSIXlt
 
