@@ -4,17 +4,20 @@ Behaviour based testing for R
 Need a nice dsl
 
 Review: 
+
   * interesting ruby testing libraries: rspec, shoulda
   * existing R testing libraries: RUnit, svUnit
   * are Revolutions doing anything related?
   
 Should:
+
 * be able to watch a directory of tests and a directory of code, and rerun tests whenever either changes
 * describe strategy for testing that integrates with usual R testing cycle, but can also be run independently
 * be fast
   
 Ideas:
-* %should%, %should_equal% etc
+
+* `%should%`, `%should_equal%` etc
     a %should_equal% b
     a %should% equal(b)
 * vs assert_equal(a, b) or assert equal(a, b)
