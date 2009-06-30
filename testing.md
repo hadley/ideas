@@ -15,7 +15,8 @@ Should:
 * describe strategy for testing that integrates with usual R testing cycle, but can also be run independently
 * be fast
   
-Ideas:
+Ideas
+-----
 
 * `%should%`, `%should_equal%` etc
       a %should_equal% b
@@ -23,7 +24,8 @@ Ideas:
 * vs assert_equal(a, b) or assert equal(a, b)
 * test function
       
-Questions:
+Questions
+-----------
 
 * how can we create an elegant testing DSL given the limitations of R's parser?
 
@@ -33,6 +35,6 @@ Questions:
 
 * how to sandbox tests?  how to make sure lingering function defintions/packages loaded don't affect the tests?  (work in clean environment?  advise on quitting R before rerunning?)
 
-* how can tests be self documenting?   should "return its full name"
+* how can tests be self documenting?   `should "return its full name"`
 
 * can we (by using codetools) only rerun tests that are affected by the changes we made?

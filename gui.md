@@ -3,7 +3,8 @@ High-level gui library for R
 
 Should be based on RGtk2, or other single library.  Takes the best features of gWidgets and extends them in a way that isn't possible when you have to support multiple toolkits. (Another DSL)
 
-Ideas:
+Ideas
+-----
 
 * use method chaining to make it easier to make multiple changes
     slider$
