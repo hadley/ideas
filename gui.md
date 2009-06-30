@@ -22,9 +22,3 @@ Ideas:
 
 
 This moves away from R's usual object semantics, but immutable objects are not well suited for modelling things that are clearly mutable.
-      
-a
-  $b
-  $c
-  
-a$b$c
