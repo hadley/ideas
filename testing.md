@@ -18,8 +18,8 @@ Should:
 Ideas:
 
 * `%should%`, `%should_equal%` etc
-    a %should_equal% b
-    a %should% equal(b)
+      a %should_equal% b
+      a %should% equal(b)
 * vs assert_equal(a, b) or assert equal(a, b)
 * test function
       
