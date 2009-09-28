@@ -6,6 +6,8 @@ Should be easy to:
   * standardise: index, log transform, mean/var, 0-1
   * remove seasonal effects
   * smooth
+  * index
+  * align
   * cluster
 
 
