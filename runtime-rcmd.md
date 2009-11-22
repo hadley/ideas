@@ -28,3 +28,5 @@ Pluggable components:
   * load data
   * load code
   * compile C code
+  
+See menu() and select.list() for ui components.
