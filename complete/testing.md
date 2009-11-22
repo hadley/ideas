@@ -38,3 +38,6 @@ Questions
 * how can tests be self documenting?   `should "return its full name"`
 
 * can we (by using codetools) only rerun tests that are affected by the changes we made?
+
+
+See testthat

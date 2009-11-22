@@ -30,3 +30,5 @@ Pluggable components:
   * compile C code
   
 See menu() and select.list() for ui components.
+
+Use dependency description ideas from rake.

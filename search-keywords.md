@@ -14,3 +14,6 @@ http://del.icio.us/url/d36da589362972cd6c657aeafb9970af
 http://www.brandtags.net/browse.php?id=176
 
 http://feeds.feedburner.com/~r/JuiceAnalytics/~3/507401848/
+
+
+See related work in manyeyes and by juice analytics.
