@@ -7,7 +7,6 @@ Opinionated software (with my opinions on best practices for package development
 
 Command line application that sets up package skeleton, designed to work nicely with all of the default pluggable components. Includes git init.
 
-Needs generic caching/dependency framework so that the minimum of work needs to be done on each refresh.
 
 Pluggable components:
 
