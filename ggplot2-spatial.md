@@ -12,6 +12,7 @@ Not a GIS, but need to be able to provide geographic-statistical displays.  Deve
 
 Decent thinning algorithms.
 Decent conversion from one data type to another.
+Random density fill.
 
 Better contours:
 

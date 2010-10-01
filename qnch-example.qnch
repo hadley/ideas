@@ -1,0 +1,43 @@
+name: U.S. Census 2000, Households
+source:
+  organization: Census Bureau
+  organization-url: http://census.gov/
+  info-url: http://www.census.gov/main/www/pums.html
+  data-dictionary-url: http://www.census.gov/prod/cen2000/doc/pums.pdf
+  downloaded: 2009-08-10
+
+path: pums_48.dat.bz2
+type: fixed
+row-pattern: ^H
+
+variables:
+  - name: Housing unit weight
+    type: numeric
+    variable-name: HWEIGHT
+    characters: [102, 105]
+    minimum: 0
+    maximum: 1975
+   
+  - name: Number of Bedrooms
+    variable-name: BEDRMS
+    type: numeric
+    characters: [124, 124]
+    special-values:
+      - [" ", Not in universe]
+      - [5, 5 or more bedrooms]
+      
+  - name: Heating Fuel
+    variable-name: FUEL
+    type: categorical
+    characters: [132, 132]
+    categories:
+      - [" ", Not in universe/unknown]
+      - [1, Gas from pipes]
+      - [2, "Gas from tank, bottles, LP"]
+      - [3, Electricity]
+      - [4, "Fuel oil, kerosene, etc."]
+      - [5, Coal or coke]
+      - [6, Wood]
+      - [7, Solar energy]
+      - [8, Other fuel]
+      - [9, No fuel used]
