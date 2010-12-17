@@ -55,6 +55,7 @@ Maybe needs some way of selecting first unique record for the case where you are
 * special values (factor levels / NA value)
 * variable type 
 * tag/keyword
+* is it measured or id
 
 # Options
 
@@ -92,6 +93,10 @@ Tool to read SAS input statements?
 
 Machine learning to parse data dictionary.
 
+# Sample data
+
 See DASL (http://lib.stat.cmu.edu/DASL/Datafiles/Cheese.html) + OzDASL for sample datasets that we should be able to read in metadata and convert.  See also CAUSEweb.
+
+See weather data - http://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
 
 census data - examples of 800 page data dictionaries.

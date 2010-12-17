@@ -10,6 +10,8 @@ Not a GIS, but need to be able to provide geographic-statistical displays.  Deve
   * support for voronoi tesselations in ggplot
   * survey cartographic literature for ideas
 
+Finish implementing fortify for points, pixels and grids.
+
 Decent thinning algorithms.
 Decent conversion from one data type to another.
 Random density fill.
