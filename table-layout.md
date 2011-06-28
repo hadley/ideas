@@ -20,3 +20,5 @@ http://www.iq.harvard.edu/blog/sss/archives/2009/03/writing_excel_o.shtml
 Ties to algebra of data manipulation?
 
 http://www.nettakeaway.com/tp/article/446/tabled
+
+http://stats.stackexchange.com/questions/3542/what-is-a-good-resource-on-table-design

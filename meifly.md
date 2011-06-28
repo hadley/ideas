@@ -13,3 +13,6 @@ Other model families:
   * ...
 
 Work better with models based on different datasets.
+
+http://www.jstor.org/stable/1268678
+http://www.jstor.org/stable/2987737

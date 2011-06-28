@@ -1,5 +1,5 @@
-Data meta-data: qnch
-===============
+# Data meta-data: qnch
+
 http://eagereyes.org/blog/2009/qnch-data-description-language-for-tabular-data.html
 
 A common way to specify data meta-data (possibly incomplete) in a way that
